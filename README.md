@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Aarav90-cpu/Aarav90-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aarav90-cpu. I like developing basically anything that I NEED.
+(I share it cause somebody else might use it to!!)
 
-Here are some ideas to get you started:
+Please ONLY Look at the pinned repos... the rest are of no use!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Coding Stack
+
+ - Python
+ - C/C++/C#
+ - JavaScript,HTML,CSS
+ - Swift
+ - Kotlin
+
+### Hackintosh and Kernel
+
+ - I am not much of a contibutor but I am working on KVM Raptor Lake iGPU acceleration
+ - Linux-Kotlin
+ - BlackBox-Linux
+
+### Everyday Tools and Coding Languages
+
+ - LightBase
+ - arkcode
+
+### UI
+
+ - C++ Liquid Glass
+ - HydroChroma
+
+LICENSING
+
+"GravityGPU Project" is Licensed under the OWNER of this github account!
