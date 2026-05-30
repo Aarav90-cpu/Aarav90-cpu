@@ -28,6 +28,7 @@ Please ONLY Look at the pinned repos... the rest are of no use!
 
  - C++ Liquid Glass
  - HydroChroma
+ - Expressive Glass
 
 LICENSING
 
