@@ -15,7 +15,7 @@ Please ONLY Look at the pinned repos... the rest are of no use!
 
 ### Hackintosh and Kernel
 
- - I am not much of a contibutor but I am working on KVM Raptor Lake iGPU acceleration
+ - Gravity GPU
  - Linux-Kotlin
  - BlackBox-Linux
 
@@ -33,3 +33,7 @@ Please ONLY Look at the pinned repos... the rest are of no use!
 LICENSING
 
 "GravityGPU Project" is Licensed under the OWNER of this github account!
+
+### Android
+
+ - Android-1.0 (sdk)
