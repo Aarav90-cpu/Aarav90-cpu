@@ -3,8 +3,6 @@
 I am Aarav90-cpu. I like developing basically anything that I NEED.
 (I share it cause somebody else might use it to!!)
 
-Please ONLY Look at the pinned repos... the rest are of no use!
-
 ### My Coding Stack
 
  - Python
@@ -12,23 +10,28 @@ Please ONLY Look at the pinned repos... the rest are of no use!
  - JavaScript,HTML,CSS
  - Swift
  - Kotlin
-
-### Hackintosh and Kernel
-
- - Gravity GPU
- - Linux-Kotlin
- - BlackBox-Linux
+ - arkcode
 
 ### Everyday Tools and Coding Languages
 
  - LightBase
  - arkcode
+ - mdEditor
 
 ### UI
+ - Cpp-Liquid-Glass
+ - Expressive-Glass
 
- - C++ Liquid Glass
- - HydroChroma
- - Expressive Glass
+### Docs
+
+ - Linux-and-Unix-System-Administation
+ - Oneplus-7---Unlocking-the-Bootloader
+
+### [ARK OS](https://github.com/Aarav90-cpu/ARK-OS) { Full source Code not yet available }
+
+ - ARK-OS-Kernel
+ - ARK-OS-Prebuilts
+ - ARK-OS-Frameworks
 
 LICENSING
 
