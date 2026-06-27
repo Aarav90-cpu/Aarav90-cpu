@@ -32,6 +32,7 @@ I am Aarav90-cpu. I like developing basically anything that I NEED.
  - ARK-OS-Kernel
  - ARK-OS-Prebuilts
  - ARK-OS-Frameworks
+ - ARK-OS-Tools
 
 LICENSING
 
