@@ -35,11 +35,6 @@ This is self-hosted on a gogs server due to github limits!
 
 Website: https://aarav90-cpu.github.io/ARK-OS-Website/
 
-
-LICENSING
- 
-"GravityGPU Project" is Licensed under the OWNER of this github account! (Deprecated if somebody denys ownership by next month)
-
 ### Android
 
  - Android-1.0 (sdk)
