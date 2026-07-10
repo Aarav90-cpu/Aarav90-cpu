@@ -15,11 +15,13 @@ I am Aarav90-cpu. I like developing basically anything that I NEED.
 ### Everyday Tools and Coding Languages
 
  - LightBase
- - arkcode
- - mdEditor
+ - arkcode (Deprecated)
+ - mdEditor(Deprecated)
+ - fetchIt
+ - aPlayer (In Development) [Practically does not even work yet]
 
 ### UI
- - Cpp-Liquid-Glass
+ - Cpp-Liquid-Glass (Deprecated)
  - Expressive-Glass
 
 ### Docs
@@ -27,16 +29,16 @@ I am Aarav90-cpu. I like developing basically anything that I NEED.
  - Linux-and-Unix-System-Administation
  - Oneplus-7---Unlocking-the-Bootloader
 
-### [ARK OS](https://github.com/Aarav90-cpu/ARK-OS) { Full source Code not yet available }
+### [ARK OS](https://ark-os.duckdns.org/Aarav90-cpu/ARK-OS)
 
- - ARK-OS-Kernel
- - ARK-OS-Prebuilts
- - ARK-OS-Frameworks
- - ARK-OS-Tools
+This is self-hosted on a gogs server due to github limits!
+
+Website: https://aarav90-cpu.github.io/ARK-OS-Website/
+
 
 LICENSING
-
-"GravityGPU Project" is Licensed under the OWNER of this github account!
+ 
+"GravityGPU Project" is Licensed under the OWNER of this github account! (Deprecated if somebody denys ownership by next month)
 
 ### Android
 
