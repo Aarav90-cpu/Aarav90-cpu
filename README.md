@@ -18,7 +18,6 @@ I am Aarav90-cpu. I like developing basically anything that I NEED.
  - arkcode (Deprecated)
  - mdEditor(Deprecated)
  - fetchIt
- - aPlayer (In Development) [Practically does not even work yet]
 
 ### UI
  - Cpp-Liquid-Glass (Deprecated)
